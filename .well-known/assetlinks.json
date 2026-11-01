@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sterls.whooshblocks",
+        "sha256_cert_fingerprints": ["9B:6A:D3:EF:47:9D:4E:0D:CD:8A:63:26:6C:5D:DF:39:B3:61:35:BB:1D:1F:BE:2F:B5:CB:AA:5B:08:99:F6:D4"]
+      }
+    }]
