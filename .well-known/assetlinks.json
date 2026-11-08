@@ -20,7 +20,8 @@
       "namespace": "android_app",
       "package_name": "io.github.sterls.vault",
       "sha256_cert_fingerprints": [
-        "F3:90:22:06:67:ED:C3:21:BE:35:6B:12:C3:F1:24:F7:32:66:21:48:B3:FB:55:29:BD:44:11:33:54:70:06:ED"
+        "F3:90:22:06:67:ED:C3:21:BE:35:6B:12:C3:F1:24:F7:32:66:21:48:B3:FB:55:29:BD:44:11:33:54:70:06:ED",
+        "21:67:8C:C2:A6:1E:01:50:FC:A1:4A:D1:D7:4B:C4:63:AB:86:D2:C2:BB:BF:4B:A1:02:8E:C0:57:A2:7A:21:91"
       ]
     }
   }
